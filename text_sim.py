@@ -1,5 +1,5 @@
 '''
-To compile code, run python prog1_new.py --src=pepper-src.txt --target=pepper-tgt.txt
+To compile code, run python text_sim.py --src=pepper-src.txt --target=pepper-tgt.txt
 You just need to pass the source text file to src and target text file to target
 '''
 import argparse
